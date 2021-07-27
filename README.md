@@ -1,3 +1,2 @@
-Java Code to display different map locations as Applet.
-Created using UnfoldingMap libraries for map providers.
-File "LocationTester" can be accessed under the src folder.
+Java Code, created using UnfoldingMap libraries, to display different map locations and running as an Applet.
+Code can be accessed in "LocationTester" folder under the src.

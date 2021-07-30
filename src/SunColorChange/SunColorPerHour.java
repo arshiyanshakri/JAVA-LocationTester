@@ -3,6 +3,8 @@ package guimodule;
 import processing.core.PApplet;
 import processing.core.PImage;
 
+//An application which changes sun color according to system's time
+
 public class SunColorPerHour extends PApplet {
 	
 	private String URL="https://media.cntraveler.com/photos/58ac9e5fa5afa42363c01c4b/master/w_4352,h_3264,c_limit/palm-beach-arubaGettyImages-474428679.jpg";

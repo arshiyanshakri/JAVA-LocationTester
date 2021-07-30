@@ -12,11 +12,8 @@ import de.fhpotsdam.unfolding.providers.OpenStreetMap;
 import de.fhpotsdam.unfolding.providers.Yahoo;
 import de.fhpotsdam.unfolding.utils.MapUtils;
 
-/** HelloWorld
-  * An application detecting different map locations and drawing them side by side
-  * @AShak
-  * Date: July 27, 2021
-  * */
+  //An application detecting different map locations and drawing them side by side
+ 
 public class HelloWorld extends PApplet
 {
 
